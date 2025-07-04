@@ -42,5 +42,4 @@ youtube-sentiment-analyzer/
 - No authentication or API keys required
 
 ## Notes: Make sure Keras and TensorFlow are uninstalled if you face errors with Transformers:
-  '''bash 
   pip uninstall keras tensorflow
